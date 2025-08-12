@@ -1,0 +1,34 @@
+.body{
+    background-color: blue;
+}
+.hhhh{
+    background-color: yellow;
+    width: 1200px;
+    height: 614px;
+    border-radius: 20px;
+    display: flex;
+    gap: 81px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 5% auto;
+}
+.hhh{
+    width: 200px;
+    height: 200px;
+    background-color: #240404;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+
+}
+.h{
+    background-color: red;
+    width: 133px;
+    height: 78px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
